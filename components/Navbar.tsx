@@ -27,6 +27,7 @@ const Navbar = () => {
         />
       </div>
 
+     
       <Image 
         src="menu.svg"
         alt="menu"
@@ -34,6 +35,9 @@ const Navbar = () => {
         height={32}
         className="inline-block cursor-pointer lg:hidden"
       />
+
+        
+      
     </nav>
   )
 }
